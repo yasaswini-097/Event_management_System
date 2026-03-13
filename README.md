@@ -1,7 +1,3 @@
-To add your **Event Management System project README to GitHub**, you should create a file named **`README.md`** in your project folder. Below is a **GitHub-friendly README (Markdown format)** that will look clean and professional on GitHub.
-
----
-
 #  Event Management System
 
 ##  Project Overview
@@ -10,7 +6,7 @@ The **Event Management System** is a web-based application developed to simplify
 
 This project is built using **PHP, MySQL, HTML, and CSS** and runs on a **local server using XAMPP**. It provides a simple and user-friendly interface for both administrators and users to interact with the system.
 
----
+
 
 #  Features
 
@@ -33,7 +29,7 @@ This project is built using **PHP, MySQL, HTML, and CSS** and runs on a **local 
 * Book events
 * View booking history
 
----
+
 
 # 🛠 Technologies Used
 
@@ -55,7 +51,7 @@ This project is built using **PHP, MySQL, HTML, and CSS** and runs on a **local 
 * XAMPP
 * Visual Studio Code
 
----
+
 
 # 📂 Project Structure
 
